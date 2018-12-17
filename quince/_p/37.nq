@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/test_data/id/dataset/bristolMonuments> <http://rdfs.org/ns/void#triples> "57727"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/test_data/id/dataset/bristolMonuments/metadata>.
+<http://datadock.io/kal/test_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#triples> "50"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/test_data/id/dataset/tokyoMetroLines/metadata>.

@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/test_data/id/dataset/bristolMonuments> <http://purl.org/dc/terms/title> "Bristol Monuments"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/test_data/id/dataset/bristolMonuments/metadata>.
+<http://datadock.io/kal/test_data/id/dataset/tokyoMetroLines> <http://purl.org/dc/terms/title> "Tokyo Metro Lines"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/test_data/id/dataset/tokyoMetroLines/metadata>.

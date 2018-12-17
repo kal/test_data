@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/test_data/id/resource/bristolMonuments/monument_record_no/239M> <http://datadock.io/kal/test_data/id/definition/northing> "173298"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/test_data/id/dataset/bristolMonuments>.
+<http://datadock.io/kal/test_data/id/resource/bristolMonuments/monument_record_no/819M> <http://datadock.io/kal/test_data/id/definition/monument_record_no> "819M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/test_data/id/dataset/bristolMonuments>.

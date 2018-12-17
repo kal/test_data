@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/test_data/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <http://networkedplanet.com/> <http://datadock.io/kal/test_data/metadata>.
+<http://datadock.io/kal/test_data/id/dataset/tokyoMetroLines> <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/test_data/id/dataset/tokyoMetroLines/metadata>.
